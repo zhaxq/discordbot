@@ -16,9 +16,6 @@ intents.guilds = True
 intents.members = True
 intents.message_content = True
 
-os.system("zip -r backup.zip .")
-print("✅ ¡Backup creado exitosamente como 'backup.zip'!")
-
 bot = commands.Bot(command_prefix="!", intents=intents)
 
 # Lista de cogs con comandos slash
