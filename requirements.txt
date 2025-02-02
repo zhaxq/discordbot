@@ -1,0 +1,12 @@
+aiohappyeyeballs==2.4.4
+aiohttp-retry==2.9.1
+argon2-cffi==23.1.0
+argon2-cffi-bindings==21.2.0
+cryptography==44.0.0
+discord==2.3.2
+iso8601==2.1.0
+propcache==0.2.1
+protobuf==4.25.6
+pycryptodomex==3.21.0
+pyseto==1.8.2
+replit==4.1.0
